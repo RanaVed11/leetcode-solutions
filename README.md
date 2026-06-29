@@ -10,6 +10,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RanaVed11/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -71,4 +72,12 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RanaVed11/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
