@@ -21,6 +21,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Queue
 |  |
 | ------- |
@@ -45,4 +46,12 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+## Math
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+## Combinatorics
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 <!---LeetCode Topics End-->
