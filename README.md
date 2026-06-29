@@ -54,4 +54,16 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+## String
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
