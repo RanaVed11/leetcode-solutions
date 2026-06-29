@@ -56,6 +56,7 @@ This repository contains my daily LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Combinatorics
 |  |
