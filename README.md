@@ -62,6 +62,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Combinatorics
@@ -71,6 +72,7 @@ This repository contains my daily LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -124,4 +126,12 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
