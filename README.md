@@ -100,6 +100,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +143,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
