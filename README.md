@@ -16,6 +16,7 @@ This repository contains my daily LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -134,6 +135,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Simulation
