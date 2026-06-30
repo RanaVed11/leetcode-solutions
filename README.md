@@ -139,6 +139,7 @@ This repository contains my daily LeetCode solutions.
 | [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/RanaVed11/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Simulation
 |  |
 | ------- |
