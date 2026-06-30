@@ -17,6 +17,7 @@ This repository contains my daily LeetCode solutions.
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -76,6 +77,7 @@ This repository contains my daily LeetCode solutions.
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
@@ -99,10 +101,12 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
