@@ -25,6 +25,7 @@ This repository contains my daily LeetCode solutions.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -50,6 +51,7 @@ This repository contains my daily LeetCode solutions.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Queue
@@ -114,6 +116,7 @@ This repository contains my daily LeetCode solutions.
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
