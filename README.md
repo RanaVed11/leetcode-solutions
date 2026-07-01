@@ -37,6 +37,7 @@ This repository contains my daily LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -84,6 +85,7 @@ This repository contains my daily LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -137,6 +139,7 @@ This repository contains my daily LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
