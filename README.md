@@ -17,6 +17,7 @@ This repository contains my daily LeetCode solutions.
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -45,6 +46,7 @@ This repository contains my daily LeetCode solutions.
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
