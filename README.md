@@ -92,6 +92,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/RanaVed11/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -200,4 +201,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RanaVed11/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
