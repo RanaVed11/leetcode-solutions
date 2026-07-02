@@ -22,6 +22,7 @@ This repository contains my daily LeetCode solutions.
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RanaVed11/leetcode-solutions/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ This repository contains my daily LeetCode solutions.
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Combinatorics
 |  |
@@ -133,6 +135,7 @@ This repository contains my daily LeetCode solutions.
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Matrix
 |  |
 | ------- |
@@ -193,4 +196,8 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
