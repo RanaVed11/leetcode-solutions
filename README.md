@@ -25,6 +25,7 @@ This repository contains my daily LeetCode solutions.
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RanaVed11/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,6 +133,7 @@ This repository contains my daily LeetCode solutions.
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
