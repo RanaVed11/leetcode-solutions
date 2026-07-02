@@ -21,6 +21,7 @@ This repository contains my daily LeetCode solutions.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -50,6 +51,7 @@ This repository contains my daily LeetCode solutions.
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -100,6 +102,7 @@ This repository contains my daily LeetCode solutions.
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -125,6 +128,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -176,4 +180,12 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
