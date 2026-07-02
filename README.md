@@ -48,6 +48,7 @@ This repository contains my daily LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0120-triangle) |
@@ -92,6 +93,7 @@ This repository contains my daily LeetCode solutions.
 | [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## Combinatorics
 |  |
@@ -189,5 +191,6 @@ This repository contains my daily LeetCode solutions.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
