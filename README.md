@@ -18,6 +18,7 @@ This repository contains my daily LeetCode solutions.
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/RanaVed11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RanaVed11/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -192,6 +193,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/RanaVed11/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -228,6 +230,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/RanaVed11/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/RanaVed11/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
