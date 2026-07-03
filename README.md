@@ -54,6 +54,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -117,6 +118,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -231,6 +233,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RanaVed11/leetcode-solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0052-n-queens-ii) |
