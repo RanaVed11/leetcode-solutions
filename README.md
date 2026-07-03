@@ -227,6 +227,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/RanaVed11/leetcode-solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
