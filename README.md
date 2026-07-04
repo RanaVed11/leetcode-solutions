@@ -126,6 +126,7 @@ This repository contains my daily LeetCode solutions.
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Data Stream
 |  |
 | ------- |
