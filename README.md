@@ -128,6 +128,7 @@ This repository contains my daily LeetCode solutions.
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/RanaVed11/leetcode-solutions/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -195,6 +196,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Data Stream
 |  |
