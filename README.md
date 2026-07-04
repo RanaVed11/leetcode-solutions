@@ -40,6 +40,7 @@ This repository contains my daily LeetCode solutions.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RanaVed11/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
@@ -139,6 +140,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
