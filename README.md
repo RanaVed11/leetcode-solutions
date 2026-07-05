@@ -87,10 +87,12 @@ This repository contains my daily LeetCode solutions.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Design
@@ -101,6 +103,7 @@ This repository contains my daily LeetCode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Math
 |  |
@@ -262,6 +265,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
