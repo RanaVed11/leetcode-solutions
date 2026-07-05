@@ -10,6 +10,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RanaVed11/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -143,6 +144,7 @@ This repository contains my daily LeetCode solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -199,6 +201,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
