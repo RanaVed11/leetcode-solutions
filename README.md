@@ -36,6 +36,7 @@ This repository contains my daily LeetCode solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/RanaVed11/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
@@ -209,6 +210,7 @@ This repository contains my daily LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0392-is-subsequence) |
