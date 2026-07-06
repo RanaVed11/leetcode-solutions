@@ -45,6 +45,7 @@ This repository contains my daily LeetCode solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RanaVed11/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -280,6 +281,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
