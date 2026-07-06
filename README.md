@@ -286,4 +286,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RanaVed11/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RanaVed11/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
