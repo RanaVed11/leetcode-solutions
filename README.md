@@ -146,6 +146,7 @@ This repository contains my daily LeetCode solutions.
 | [0443-string-compression](https://github.com/RanaVed11/leetcode-solutions/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RanaVed11/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -286,6 +287,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RanaVed11/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
