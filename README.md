@@ -324,4 +324,5 @@ This repository contains my daily LeetCode solutions.
 | [1633-percentage-of-users-attended-a-contest](https://github.com/RanaVed11/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/RanaVed11/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RanaVed11/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RanaVed11/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
