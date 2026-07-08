@@ -156,10 +156,12 @@ This repository contains my daily LeetCode solutions.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RanaVed11/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +261,7 @@ This repository contains my daily LeetCode solutions.
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
