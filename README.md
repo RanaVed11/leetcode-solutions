@@ -313,6 +313,7 @@ This repository contains my daily LeetCode solutions.
 | [0620-not-boring-movies](https://github.com/RanaVed11/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
