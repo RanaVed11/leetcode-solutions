@@ -54,6 +54,7 @@ This repository contains my daily LeetCode solutions.
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/RanaVed11/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +194,7 @@ This repository contains my daily LeetCode solutions.
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This repository contains my daily LeetCode solutions.
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
+| [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +258,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
+| [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
 | ------- |
