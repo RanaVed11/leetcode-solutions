@@ -255,6 +255,7 @@ This repository contains my daily LeetCode solutions.
 | [0443-string-compression](https://github.com/RanaVed11/leetcode-solutions/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -282,6 +283,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
