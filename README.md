@@ -94,6 +94,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,6 +256,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
