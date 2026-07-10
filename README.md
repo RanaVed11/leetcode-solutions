@@ -104,12 +104,14 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -123,6 +125,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Math
@@ -322,6 +325,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Sliding Window
 |  |
