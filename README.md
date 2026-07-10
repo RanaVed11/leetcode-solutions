@@ -201,6 +201,7 @@ This repository contains my daily LeetCode solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/RanaVed11/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -412,4 +413,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RanaVed11/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
