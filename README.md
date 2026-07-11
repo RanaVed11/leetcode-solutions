@@ -292,6 +292,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0328-odd-even-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
