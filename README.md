@@ -109,6 +109,7 @@ This repository contains my daily LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repository contains my daily LeetCode solutions.
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
@@ -132,6 +134,7 @@ This repository contains my daily LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -341,6 +344,7 @@ This repository contains my daily LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
