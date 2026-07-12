@@ -109,6 +109,7 @@ This repository contains my daily LeetCode solutions.
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -138,6 +139,7 @@ This repository contains my daily LeetCode solutions.
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -441,4 +443,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RanaVed11/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
