@@ -90,6 +90,7 @@ This repository contains my daily LeetCode solutions.
 | [0509-fibonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
@@ -110,6 +111,7 @@ This repository contains my daily LeetCode solutions.
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -136,6 +138,7 @@ This repository contains my daily LeetCode solutions.
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -347,6 +350,7 @@ This repository contains my daily LeetCode solutions.
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
