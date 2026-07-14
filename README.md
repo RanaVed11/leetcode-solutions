@@ -124,6 +124,7 @@ This repository contains my daily LeetCode solutions.
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/RanaVed11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RanaVed11/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -364,6 +365,7 @@ This repository contains my daily LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/RanaVed11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RanaVed11/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/RanaVed11/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -441,11 +443,13 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/RanaVed11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/RanaVed11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RanaVed11/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Shortest Path
 |  |
