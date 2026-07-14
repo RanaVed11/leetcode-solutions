@@ -55,6 +55,7 @@ This repository contains my daily LeetCode solutions.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/RanaVed11/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RanaVed11/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -130,6 +131,7 @@ This repository contains my daily LeetCode solutions.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RanaVed11/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RanaVed11/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
@@ -254,6 +256,7 @@ This repository contains my daily LeetCode solutions.
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RanaVed11/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
