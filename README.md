@@ -142,6 +142,7 @@ This repository contains my daily LeetCode solutions.
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +248,7 @@ This repository contains my daily LeetCode solutions.
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
@@ -278,6 +280,7 @@ This repository contains my daily LeetCode solutions.
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
@@ -473,4 +476,8 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/RanaVed11/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
