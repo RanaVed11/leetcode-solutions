@@ -95,6 +95,7 @@ This repository contains my daily LeetCode solutions.
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RanaVed11/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -339,6 +340,7 @@ This repository contains my daily LeetCode solutions.
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RanaVed11/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
