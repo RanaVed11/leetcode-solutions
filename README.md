@@ -80,6 +80,7 @@ This repository contains my daily LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -169,6 +170,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/RanaVed11/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RanaVed11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RanaVed11/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -182,6 +184,7 @@ This repository contains my daily LeetCode solutions.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 ## String
 |  |
