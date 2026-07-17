@@ -96,6 +96,7 @@ This repository contains my daily LeetCode solutions.
 | [0392-is-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/RanaVed11/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
