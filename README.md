@@ -48,6 +48,7 @@ This repository contains my daily LeetCode solutions.
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RanaVed11/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/RanaVed11/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -96,6 +97,7 @@ This repository contains my daily LeetCode solutions.
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RanaVed11/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/RanaVed11/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -231,6 +233,7 @@ This repository contains my daily LeetCode solutions.
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/RanaVed11/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RanaVed11/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2542-maximum-subsequence-score](https://github.com/RanaVed11/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search
