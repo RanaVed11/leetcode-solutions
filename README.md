@@ -156,6 +156,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0919-complete-binary-tree-inserter](https://github.com/RanaVed11/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -228,6 +229,7 @@ This repository contains my daily LeetCode solutions.
 | [0394-decode-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/RanaVed11/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RanaVed11/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -340,6 +342,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -524,4 +527,5 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/RanaVed11/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
