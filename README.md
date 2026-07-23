@@ -128,6 +128,7 @@ This repository contains my daily LeetCode solutions.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -168,6 +169,7 @@ This repository contains my daily LeetCode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -234,6 +236,7 @@ This repository contains my daily LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/RanaVed11/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RanaVed11/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -425,6 +428,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
