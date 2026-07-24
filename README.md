@@ -90,6 +90,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -237,6 +238,7 @@ This repository contains my daily LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/RanaVed11/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RanaVed11/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -263,6 +265,7 @@ This repository contains my daily LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0394-decode-string) |
