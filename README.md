@@ -72,6 +72,7 @@ This repository contains my daily LeetCode solutions.
 | [2462-total-cost-to-hire-k-workers](https://github.com/RanaVed11/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/RanaVed11/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +212,7 @@ This repository contains my daily LeetCode solutions.
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -383,6 +385,7 @@ This repository contains my daily LeetCode solutions.
 | [0201-bitwise-and-of-numbers-range](https://github.com/RanaVed11/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RanaVed11/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -561,4 +564,8 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0739-daily-temperatures](https://github.com/RanaVed11/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
