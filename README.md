@@ -593,5 +593,6 @@ This repository contains my daily LeetCode solutions.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
