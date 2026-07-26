@@ -39,6 +39,7 @@ This repository contains my daily LeetCode solutions.
 | [0162-find-peak-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RanaVed11/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
@@ -170,6 +171,7 @@ This repository contains my daily LeetCode solutions.
 | [0102-binary-tree-level-order-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/RanaVed11/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
@@ -340,6 +342,7 @@ This repository contains my daily LeetCode solutions.
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RanaVed11/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RanaVed11/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/RanaVed11/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -480,6 +483,7 @@ This repository contains my daily LeetCode solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RanaVed11/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RanaVed11/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -564,6 +568,7 @@ This repository contains my daily LeetCode solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/RanaVed11/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
