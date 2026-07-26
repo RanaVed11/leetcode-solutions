@@ -20,6 +20,7 @@ This repository contains my daily LeetCode solutions.
 | [0045-jump-game-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RanaVed11/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RanaVed11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/RanaVed11/leetcode-solutions/tree/master/0066-plus-one) |
@@ -98,6 +99,7 @@ This repository contains my daily LeetCode solutions.
 | [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RanaVed11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -295,6 +297,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/RanaVed11/leetcode-solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RanaVed11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
