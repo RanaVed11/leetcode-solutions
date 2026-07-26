@@ -50,6 +50,7 @@ This repository contains my daily LeetCode solutions.
 | [0334-increasing-triplet-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/RanaVed11/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RanaVed11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RanaVed11/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RanaVed11/leetcode-solutions/tree/master/0502-ipo) |
@@ -115,6 +116,7 @@ This repository contains my daily LeetCode solutions.
 | [0322-coin-change](https://github.com/RanaVed11/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RanaVed11/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RanaVed11/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
