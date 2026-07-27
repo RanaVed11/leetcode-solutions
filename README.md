@@ -9,6 +9,7 @@ This repository contains my daily LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0018-4sum) |
@@ -332,6 +333,7 @@ This repository contains my daily LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
