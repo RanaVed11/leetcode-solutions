@@ -236,6 +236,7 @@ This repository contains my daily LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/RanaVed11/leetcode-solutions/tree/master/0050-powx-n) |
@@ -461,6 +462,7 @@ This repository contains my daily LeetCode solutions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -487,6 +489,7 @@ This repository contains my daily LeetCode solutions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RanaVed11/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0394-decode-string) |
