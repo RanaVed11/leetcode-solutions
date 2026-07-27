@@ -418,6 +418,7 @@ This repository contains my daily LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -463,6 +464,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RanaVed11/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RanaVed11/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0206-reverse-linked-list) |
