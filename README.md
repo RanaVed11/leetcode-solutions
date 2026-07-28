@@ -95,6 +95,7 @@ This repository contains my daily LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -386,6 +387,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0018-4sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/RanaVed11/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -429,6 +431,7 @@ This repository contains my daily LeetCode solutions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -484,6 +487,7 @@ This repository contains my daily LeetCode solutions.
 | [0141-linked-list-cycle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RanaVed11/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -687,6 +691,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
