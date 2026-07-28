@@ -291,6 +291,7 @@ This repository contains my daily LeetCode solutions.
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -392,6 +393,7 @@ This repository contains my daily LeetCode solutions.
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RanaVed11/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/RanaVed11/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -661,4 +663,8 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
