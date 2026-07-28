@@ -357,6 +357,7 @@ This repository contains my daily LeetCode solutions.
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RanaVed11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/RanaVed11/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -433,6 +434,7 @@ This repository contains my daily LeetCode solutions.
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -488,6 +490,7 @@ This repository contains my daily LeetCode solutions.
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RanaVed11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
