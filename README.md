@@ -53,6 +53,7 @@ This repository contains my daily LeetCode solutions.
 | [0216-combination-sum-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/RanaVed11/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/RanaVed11/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RanaVed11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/RanaVed11/leetcode-solutions/tree/master/0289-game-of-life) |
@@ -152,12 +153,14 @@ This repository contains my daily LeetCode solutions.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/RanaVed11/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/RanaVed11/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -427,6 +430,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RanaVed11/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -590,6 +594,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanaVed11/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/RanaVed11/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RanaVed11/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
