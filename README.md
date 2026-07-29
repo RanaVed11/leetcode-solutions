@@ -256,12 +256,14 @@ This repository contains my daily LeetCode solutions.
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RanaVed11/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -295,6 +297,7 @@ This repository contains my daily LeetCode solutions.
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -368,6 +371,7 @@ This repository contains my daily LeetCode solutions.
 | [2215-find-the-difference-of-two-arrays](https://github.com/RanaVed11/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/RanaVed11/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -632,6 +636,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Union-Find
 |  |
 | ------- |
