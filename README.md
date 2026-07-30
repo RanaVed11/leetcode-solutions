@@ -19,6 +19,7 @@ This repository contains my daily LeetCode solutions.
 | [0035-search-insert-position](https://github.com/RanaVed11/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RanaVed11/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RanaVed11/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RanaVed11/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -115,6 +116,7 @@ This repository contains my daily LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/RanaVed11/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RanaVed11/leetcode-solutions/tree/master/0055-jump-game) |
@@ -320,6 +322,7 @@ This repository contains my daily LeetCode solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RanaVed11/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RanaVed11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -467,6 +470,7 @@ This repository contains my daily LeetCode solutions.
 | [0015-3sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RanaVed11/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/RanaVed11/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
@@ -716,6 +720,7 @@ This repository contains my daily LeetCode solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RanaVed11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RanaVed11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/RanaVed11/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RanaVed11/leetcode-solutions/tree/master/0901-online-stock-span) |
