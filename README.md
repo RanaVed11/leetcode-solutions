@@ -264,6 +264,7 @@ This repository contains my daily LeetCode solutions.
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -308,6 +309,7 @@ This repository contains my daily LeetCode solutions.
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/RanaVed11/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -341,6 +343,7 @@ This repository contains my daily LeetCode solutions.
 | [0763-partition-labels](https://github.com/RanaVed11/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RanaVed11/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2542-maximum-subsequence-score](https://github.com/RanaVed11/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
