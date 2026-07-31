@@ -53,6 +53,7 @@ This repository contains my daily LeetCode solutions.
 | [0152-maximum-product-subarray](https://github.com/RanaVed11/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RanaVed11/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RanaVed11/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -108,6 +109,7 @@ This repository contains my daily LeetCode solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RanaVed11/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RanaVed11/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -396,6 +398,7 @@ This repository contains my daily LeetCode solutions.
 | [0146-lru-cache](https://github.com/RanaVed11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/RanaVed11/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RanaVed11/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -436,6 +439,7 @@ This repository contains my daily LeetCode solutions.
 | [0049-group-anagrams](https://github.com/RanaVed11/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RanaVed11/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/RanaVed11/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RanaVed11/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -690,6 +694,7 @@ This repository contains my daily LeetCode solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RanaVed11/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RanaVed11/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
