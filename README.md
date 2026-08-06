@@ -279,6 +279,7 @@ This repository contains my daily LeetCode solutions.
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -753,6 +754,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RanaVed11/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Topological Sort
 |  |
