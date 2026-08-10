@@ -162,6 +162,7 @@ This repository contains my daily LeetCode solutions.
 | [1143-longest-common-subsequence](https://github.com/RanaVed11/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
@@ -278,6 +279,7 @@ This repository contains my daily LeetCode solutions.
 | [0920-number-of-music-playlists](https://github.com/RanaVed11/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -777,4 +779,24 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RanaVed11/leetcode-solutions/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
