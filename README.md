@@ -92,6 +92,7 @@ This repository contains my daily LeetCode solutions.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RanaVed11/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RanaVed11/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/RanaVed11/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/RanaVed11/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -166,6 +167,7 @@ This repository contains my daily LeetCode solutions.
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RanaVed11/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Queue
 |  |
 | ------- |
@@ -283,6 +285,7 @@ This repository contains my daily LeetCode solutions.
 | [1071-greatest-common-divisor-of-strings](https://github.com/RanaVed11/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/RanaVed11/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -798,6 +801,7 @@ This repository contains my daily LeetCode solutions.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
