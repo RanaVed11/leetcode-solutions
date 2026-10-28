@@ -109,6 +109,7 @@ This repository contains my daily LeetCode solutions.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RanaVed11/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RanaVed11/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +172,7 @@ This repository contains my daily LeetCode solutions.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RanaVed11/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -460,6 +462,7 @@ This repository contains my daily LeetCode solutions.
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/RanaVed11/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/RanaVed11/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -557,6 +560,7 @@ This repository contains my daily LeetCode solutions.
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RanaVed11/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RanaVed11/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
