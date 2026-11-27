@@ -111,6 +111,7 @@ This repository contains my daily LeetCode solutions.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RanaVed11/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RanaVed11/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +175,7 @@ This repository contains my daily LeetCode solutions.
 | [1510-stone-game-iv](https://github.com/RanaVed11/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RanaVed11/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RanaVed11/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -386,6 +388,7 @@ This repository contains my daily LeetCode solutions.
 | [2542-maximum-subsequence-score](https://github.com/RanaVed11/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RanaVed11/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RanaVed11/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
